@@ -34,3 +34,22 @@ https://github.com/InternLM/Tutorial/blob/camp2/helloworld/hello_world.md
 ![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/lagent.png)
 
 ![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/lagent2.png)
+
+# 图文写作实战
+
+- 创建软连接调用 model
+- 利用 streamlit 部署
+- 本地通过 powershell 连接
+- 根据预定义的 prompt 完成 demo 演示
+
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/Test2Picture0.png)
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/Test2Picture1.png)
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/Test2Picture2.png)
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/Test2Picture3.png)
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/Test2Picture4.png)
+
+
+
+
+
+
