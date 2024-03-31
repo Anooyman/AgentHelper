@@ -1,5 +1,6 @@
 
 # InternLM2 亮点
+
     - 超长上下文： 20w token
     - 综合性能全面提升：InternLM2-chat-20B 重点测评比肩 ChatGPT
     - 优秀的对话和创作体验：AlpacaEval2 超越 GPT 3.5 和 Gemini Pro
@@ -7,6 +8,7 @@
     - 突出的数理能力和实用的数据分析能力：GSM8k 和 MATH 达到和 GPT 4 相仿水平
 
 # 开源开放体系
+
     - 数据(书生 万卷): 2 TB 数据
     - 预训练(InternLM-Train): 并行训练，速度达到 3600 tokens/sec/gpu
     - 微调(XTuner): 支持全参数微调，支持LoRA等低成本微调
