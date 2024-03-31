@@ -19,3 +19,14 @@ https://github.com/InternLM/Tutorial/blob/camp2/helloworld/hello_world.md
 - 完成基本对话
 
 ![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/%E7%8C%AA%E7%8C%AAchat.png)
+
+
+# Lagent demo
+
+- 下载模型
+- 创建软连接调用 model
+- 修改 model 目录
+- 利用 streamlit 部署
+- 本地通过 powershell 连接
+- 完成基本 demo
+- 尝试求解方程组
