@@ -53,3 +53,10 @@ https://github.com/InternLM/Tutorial/blob/camp2/helloworld/hello_world.md
 
 ![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/PictureAnalysis.png)
 
+
+# Download Model from HF
+
+
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/HFdownloadModel0.png)
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/HFdownloadModel1.png)
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/HFdownloadModel2.png)
