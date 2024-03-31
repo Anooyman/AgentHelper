@@ -30,3 +30,7 @@ https://github.com/InternLM/Tutorial/blob/camp2/helloworld/hello_world.md
 - 本地通过 powershell 连接
 - 完成基本 demo
 - 尝试求解方程组
+
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/lagent.png)
+
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/lagent2.png)
