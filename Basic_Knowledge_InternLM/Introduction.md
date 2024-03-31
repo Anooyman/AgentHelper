@@ -1,6 +1,6 @@
 
 # InternLM2 亮点
-
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/%E4%BA%AE%E7%82%B9.png)
     - 超长上下文： 20w token
     - 综合性能全面提升：InternLM2-chat-20B 重点测评比肩 ChatGPT
     - 优秀的对话和创作体验：AlpacaEval2 超越 GPT 3.5 和 Gemini Pro
