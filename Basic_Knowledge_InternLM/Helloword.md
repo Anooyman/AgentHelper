@@ -11,6 +11,7 @@ https://github.com/InternLM/Tutorial/blob/camp2/helloworld/hello_world.md
 
 # Chat-八戒 Demo
 
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/%E7%8C%AA%E7%8C%AAchat.png)
 
 - 下载模型
 - 利用 streamlit 部署
