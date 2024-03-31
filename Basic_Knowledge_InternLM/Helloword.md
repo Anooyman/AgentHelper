@@ -35,7 +35,7 @@ https://github.com/InternLM/Tutorial/blob/camp2/helloworld/hello_world.md
 
 ![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/lagent2.png)
 
-# 图文写作实战
+# 图文写作 demo
 
 - 创建软连接调用 model
 - 利用 streamlit 部署
@@ -49,7 +49,7 @@ https://github.com/InternLM/Tutorial/blob/camp2/helloworld/hello_world.md
 ![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/Test2Picture4.png)
 
 
+# 图片分析 demo
 
-
-
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/PictureAnalysis.png)
 
