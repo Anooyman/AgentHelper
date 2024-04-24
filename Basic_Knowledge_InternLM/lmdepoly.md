@@ -2,7 +2,6 @@
 # 大模型部署面临的挑战
 
 ## 计算量巨大
-- 大模型前向推理所需计算量计算公式：\[ C_{forward} = 2N + 2n_{layer}n_{ctx}dattn \]
 - 20B模型生成1个token需要约406亿次浮点运算。
 - 以NVIDIA A100为例，单张理论FP16运算性能为每秒77.97TFLOPs。
 
@@ -34,9 +33,6 @@
 - 将LLM封装为HTTP API服务，支持Triton扩展。
 
 # 量化 (Quantization)
-## 通用公式
-- 量化：\[ q = round(\frac{x - ZP}{S}) \]
-- 反量化：\[ f = qxS + ZP \]
 
 ## 量化技术
 - 量化感知训练 (QAT): LLM-QAT。
