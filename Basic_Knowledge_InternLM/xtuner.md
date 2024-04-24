@@ -19,6 +19,10 @@
 
 # 模型微调
 
+- 根据构造的 QA 对微调模型
+- 用 qlora 进行微调
+- deepspeed_zero2 加速
+
 ## 基础模型评估结果截图
 ![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/weitiao01.png)
 
@@ -39,6 +43,8 @@
 
 # 微调结果展示
 
+- 用 convert 导出 hf 格式文件(Lora或者Qlora模型文件)
+- 用 merge 与基础模型进行整合 
 ## 基础模型对话内容截图
 ![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/weitiao06.png)
 
