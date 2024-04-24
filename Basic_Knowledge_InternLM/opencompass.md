@@ -70,3 +70,4 @@
 # 作业
 
 ![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/opencompass11.png)
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/opencompass12.png)
