@@ -58,3 +58,8 @@
 - **支持**: 多个智能体框架（如Lagent、LangChain、TransformersAgents）。
 - **工具集**: 包括目标检测、图像分割、姿态估计等。
 ![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/agent09.png)
+
+# 作业
+
+
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/agent10.png)
