@@ -59,9 +59,13 @@
 
 # 作业
 
+## 基础截图
 ![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/lmdepoly01.png)
 ![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/lmdepoly02.png)
 ![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/lmdepoly03.png)
 ![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/lmdepoly04.png)
 ![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/lmdepoly05.png)
+
+## 量化+kv cache
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/lmdepoly15.png)
 
