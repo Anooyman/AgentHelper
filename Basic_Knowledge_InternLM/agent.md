@@ -61,5 +61,17 @@
 
 # 作业
 
+## Lagent 
 
 ![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/agent10.png)
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/agent11.png)
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/agent12.png)
+
+## AgentLego
+
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/agent13.png)
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/agent14.png)
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/agent15.png)
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/agent16.png)
+![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/agent17.png)
+*感觉什么地方有问题，没有正确检测内容*
