@@ -1,5 +1,5 @@
 # 学习教程
-https://github.com/InternLM/Tutorial/blob/camp3/docs/L0/Python/task.md
+https://github.com/InternLM/Tutorial/blob/camp3/docs/L0/Linux/readme.md
 
 # 实战营Linux基础课程学习笔记
 
