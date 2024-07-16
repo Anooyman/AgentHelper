@@ -11,5 +11,5 @@ ssh -p 44568 root@ssh.intern-ai.org.cn -o StrictHostKeyChecking=no -o UserKnownH
 之后新建一个 .py 文件
 运行结果如下
 
-![image](https://github.com/Anooyman/LLMStudyNote/blob/main/InterLM_study_3/img/python.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/InterLM_study_3/img/python.PNG)
 
