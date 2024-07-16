@@ -13,16 +13,16 @@ RAG的工作原理是，当接收到用户的问题时，首先将问题编码�
 
 总的来说，RAG技术通过结合检索和生成，有效地提升了LLMs在处理知识密集型任务时的性能，并为未来的AI技术发展提供了新的方向。随着技术的不断进步和优化，RAG有望在更多的领域发挥重要作用，为用户提供更加准确和丰富的信息。
 
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/RAG01.png)
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/RAG02.png)
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/RAG03.png)
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/RAG04.png)
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/RAG05.png)
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/RAG06.png)
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/RAG07.png)
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/RAG08.png)
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/RAG09.png)
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/RAG10.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/RAG01.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/RAG02.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/RAG03.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/RAG04.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/RAG05.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/RAG06.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/RAG07.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/RAG08.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/RAG09.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/RAG10.png)
 
 
 # 茴香豆
@@ -56,19 +56,19 @@ RAG的工作原理是，当接收到用户的问题时，首先将问题编码�
 4. **混合大模型服务**（Hybrid LLM Service）：利用本地和远程的LLMs，结合知识图谱（knowledge graph）和向量数据库，进行信息检索和评分。
 5. **安全检查**：确保回答的合规性和有效性，避免信息泛滥。
 
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/hxd01.png)
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/hxd02.png)
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/hxd03.png)
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/hxd04.png)
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/hxd05.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/hxd01.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/hxd02.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/hxd03.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/hxd04.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/hxd05.png)
 
 ## Demo
 
 ### Web运行
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/hxd07.png)
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/hxd08.png)
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/hxd09.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/hxd07.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/hxd08.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/hxd09.png)
 
 ### InternLM Studio 部署茴香豆
 
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/hxd06.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/hxd06.png)

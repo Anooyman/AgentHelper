@@ -24,32 +24,32 @@
 - deepspeed_zero2 加速
 
 ## 基础模型评估结果截图
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/weitiao01.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/weitiao01.png)
 
 ## 300 轮评估结果截图
 
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/weitiao02.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/weitiao02.png)
 
 ## 600 轮评估结果截图
 
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/weitiao03.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/weitiao03.png)
 
 ## 微调结束评估结果截图
 
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/weitiao04.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/weitiao04.png)
 
 ## 文件夹截图
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/weitiao05.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/weitiao05.png)
 
 # 微调结果展示
 
 - 用 convert 导出 hf 格式文件(Lora或者Qlora模型文件)
 - 用 merge 与基础模型进行整合 
 ## 基础模型对话内容截图
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/weitiao06.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/weitiao06.png)
 
 ## 微调之后对话内容截图
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/weitiao07.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/weitiao07.png)
 
 ## web demo 对话内容截图
-![image](https://github.com/Anooyman/AgentHelper/blob/main/Basic_Knowledge_InternLM/img/weitiao08.png)
+![image](https://github.com/Anooyman/LLMStudyNote/blob/main/Basic_Knowledge_InternLM/img/weitiao08.png)
